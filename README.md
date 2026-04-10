@@ -7,3 +7,11 @@ cd TARGEET
 ls
 
 python Mini-Ddos.py
+
+
+
+
+
+Username : TARGEET
+
+Password : TARGEET
